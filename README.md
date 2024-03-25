@@ -1,18 +1,16 @@
-# tomado
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# tomaDO
 # 2024_BEOTKKOTTHON_TEAM_29_FE
+# 프로젝트 이름
+tomaDO
+## 프로젝트 소개
+뽀모도로와 게이미피케이션을 이용한 집중력 동기부여 서비스
+## 개발 기간
+* 24.03.17~24.03.25
+## 멤버
+*  김수영:기획
+*  이아영:디자인
+*  최규원, 이하빈:프론트엔드
+*  박소연, 신주은:백엔드
+## 개발 환경
+* Front - Flutter, JAVA
+* Back - Spring, MySQL, AmazonEC2
+
