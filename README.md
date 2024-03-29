@@ -1,4 +1,5 @@
 # 2024_BEOTKKOTTHON_TEAM_29_FE
+
 # 프로젝트 이름
 tomaDO
 ## 프로젝트 소개
@@ -13,4 +14,4 @@ tomaDO
 ## 개발 환경
 * Front - Flutter, JAVA
 * Back - Spring, MySQL, AmazonEC2
-
+## 주요 기능 소개
